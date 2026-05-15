@@ -2,14 +2,15 @@
   "name": "LED CTRL",
   "short_name": "LED CTRL",
   "description": "Contrôleur LED Bluetooth",
-  "start_url": "/",
+  "start_url": "/Led-ctrl/",
+  "scope": "/Led-ctrl/",
   "display": "standalone",
   "background_color": "#020407",
   "theme_color": "#00d9f5",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "./icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
